@@ -1,0 +1,26 @@
+# gem5 build artifacts
+build/
+*.pyc
+__pycache__/
+m5out/
+tlp_results/
+
+# Compiled binaries
+daxpy_mt
+hello
+*.o
+*.a
+
+# Python virtual environments
+venv/
+.env/
+
+# Editor files
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
